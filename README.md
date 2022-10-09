@@ -23,4 +23,4 @@ Establsish connection with MongoDB,
 in cmd write npn install,
 $npn start,
 serach localhost:3000,
-For main page in HTML run
+For main page of dealer in HTML,visit: InventoryManagmentSystem/blob/master/template/index.html
