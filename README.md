@@ -6,6 +6,7 @@
 >Completely responsive,
 >Entirely Chanagable / Updatable Products,  
 >Tracking Feature,
+>Invoice of product,
 >Counter with live counting,
 >Add product from Admin Site,
 >Password Encryption Decryption,
